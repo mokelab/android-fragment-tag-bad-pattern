@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="first_page">First page</string>
+    <string name="next">Next</string>
+    <string name="second_page">Second page</string>
+    <string name="app_name2">FragmentTag</string>
+</resources>
